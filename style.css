@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    display:inline-block;
+    margin-right: 10px;
+    width: 300px;
+    height: 196px;
+}
+
+.card-body {
+    background-color: aliceblue;
+    padding:  75px 16px 19px 16px;
+    text-align: center;
+}
+
+.card-body a {
+    margin-top: 30px;
+    display: block;
+    text-decoration: none;
+    color: antiquewhite;
+    padding: 16px 36px;
+    background-color: blue;
+
+}
+
+.card-tittle {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    text-align: left;
+}
+
+.card-header {
+    position: relative;
+    height: 193px;
+}
+
+.img_batman-avatar {
+    position: absolute;
+    bottom: -50px;
+    left: 90px;
+    border-radius: 50%;
+}
+
+.img_fondobatman {
+    /*position: absolute;*/
+}
+
+.img_Corazon {
+    position: absolute;
+    top: 15px;
+    left: 21px;
+}
+
+.img_fondoaves {
+    display:inline-block;
+    margin-right: 10px;
+    width: 300px;
+    height: 196px;
+}
+
+.header_titulo {
+    margin: 50px;
+    text-align: center;
+    color: blue;
+    background-color:aqua;
+}
+
+.footer_titulo {
+    text-align: center;
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
